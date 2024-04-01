@@ -1,6 +1,6 @@
 # BASICNETWORKING
 
-Basic Network Addressing using VLSM
+Basic Network Addressing using VLSM (Variable Length Subnet Mask)
 
 Take the standard class C network address 198.0.0.0/24 and the network
 shown in the given diagram , and create an IP addressing scheme, using VLSM,
